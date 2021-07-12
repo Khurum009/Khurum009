@@ -1,2 +1,6 @@
 hi i added throu vi hi and hello this is git file
 KAY
+Login 
+User Name
+Password
+New line has been added let see
